@@ -390,7 +390,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/https://github.com/Programmer-Ayush-Raj/RAJSPACE.git
+git clone https://github.com/https://github.com/rajayush6200/RAJSPACE.git
 cd rajspace
 ```
 
@@ -592,7 +592,7 @@ This project is licensed under the **ISC License** — see the [LICENSE](#-LICEN
 **Ayush Raj**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-raj0709/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Programmer-Ayush-Raj)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajayush6200)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajayush6200@email.com)
 
 **RAJSPACE** — Stays & Experiences · Built with ❤️ by Ayush
