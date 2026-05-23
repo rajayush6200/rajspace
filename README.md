@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="./assets/banner_v2.png" alt="RAJSPACE — Stays & Experiences" width="100%" style="border-radius:12px;"/>
+<a href="https://rajspace.onrender.com">
+  <img
+    src="./assets/banner_v2.png"
+    alt="RAJSPACE — Stays & Experiences"
+    width="640"
+    height="242"
+  />
+</a>
 
-<br/>
 <br/>
 
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -26,9 +32,7 @@
 
 <br/>
 
-**[🌐 Live Demo](https://rajspace.onrender.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[🚀 Features](#-features)** &nbsp;&nbsp;·&nbsp;&nbsp; **[🏗 Architecture](#-system-architecture)** &nbsp;&nbsp;·&nbsp;&nbsp; **[📦 Quick Start](#-quick-start)** &nbsp;&nbsp;·&nbsp;&nbsp; **[📚 API Docs](#-api-reference)**
-
-<br/>
+**[🌐 Live Demo](https://rajspace.onrender.com)** · **[🚀 Features](#-features)** · **[🏗 Architecture](#-system-architecture)** · **[📦 Quick Start](#-quick-start)** · **[📚 API Docs](#-api-reference)**
 
 </div>
 
