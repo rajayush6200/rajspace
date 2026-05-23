@@ -1,19 +1,8 @@
 <div align="center">
 
+<img src="./assets/banner_v2.png" alt="RAJSPACE — Stays & Experiences" width="100%" style="border-radius:12px;"/>
+
 <br/>
-
-```
-██████╗  █████╗      ██╗███████╗██████╗  █████╗  ██████╗███████╗
-██╔══██╗██╔══██╗     ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
-██████╔╝███████║     ██║███████╗██████╔╝███████║██║     █████╗
-██╔══██╗██╔══██║██   ██║╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝
-██║  ██║██║  ██║╚█████╔╝███████║██║     ██║  ██║╚██████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
-```
-
-### ✦ Discover · List · Experience ✦
-### *A production-grade full-stack rental platform — engineered for scale, built for people.*
-
 <br/>
 
 [![Node.js](https://img.shields.io/badge/Node.js-22.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
