@@ -950,6 +950,8 @@ This project is licensed under the **ISC License**. See the [LICENSE](LICENSE) f
 
 ---
 
+<a id="-developer"></a>
+
 ## 👨‍💻 Developer
 
 <div align="center">
