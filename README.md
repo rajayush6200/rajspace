@@ -956,27 +956,32 @@ This project is licensed under the **ISC License**. See the [LICENSE](LICENSE) f
 
 <div align="center">
 
-<br/>
-
 ### Ayush Raj
 
-*Full-Stack Engineer · Node.js · MongoDB · Express · Cloud Integrations*
+**Full-Stack Developer · MERN Stack Engineer · CS Student**
+
+*Building scalable software solutions that solve real-world problems.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajayush6200/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajayush6200)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajayush6200@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live%20Demo-RAJSPACE-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://rajspace.onrender.com)
+| Platform | Link |
+|----------|------|
+| 🌐 **Portfolio** | [ayushraj-dev.netlify.app](https://ayushraj-dev.netlify.app/) |
+| 💼 **LinkedIn** | [linkedin.com/in/rajayush6200](https://www.linkedin.com/in/rajayush6200/) |
+| 🐙 **GitHub** | [github.com/rajayush6200](https://github.com/rajayush6200) |
+| 🐦 **Twitter / X** | [@AyushRaj444](https://x.com/@AyushRaj444) |
+| 📧 **Email** | [rajayush6200@gmail.com](mailto:rajayush6200@gmail.com) |
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*If this project was useful or impressive, consider giving it a ⭐ on GitHub.*
+**Built with precision, passion, and performance in mind.**
 
-**RAJSPACE** — Engineered with precision. Deployed with confidence. Built to impress.
+*If this helped you or impressed you — a ⭐ star means the world.*
 
 <br/>
+
+*© 2026 Ayush Raj · MIT License · Made with ❤️ and ☕*
 
 </div>
